@@ -48,7 +48,7 @@ while True:
                 has_unsubmitted = True
                 
         if not has_unsubmitted:
-            print("  ✅ All caught up in this course!")
+            print(" All caught up in this course!")
             async def main(notifier):
                 await notifier.send(
                     title="Canvas Unsubmitted Items Checker",

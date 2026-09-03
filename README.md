@@ -1,7 +1,7 @@
 # HomeworkHelper1
 
 ## About
-this is a Homework helping python GUI program. It contains a system that will send you a reminder to do your homework after 30 minutes. It contains a built in basic calculator to help you with math, and a button that will take you to Merriam Webster Dictionary. I cannot host this project on github, to see it working, check out https://youtu.be/fpwMc8tsE28 which is my video about it.
+this is a Homework helping python GUI program. It contains a system that will send you a reminder to do your homework after 30 minutes. It contains a built in basic calculator to help you with math, and a button that will take you to Merriam Webster Dictionary. I cannot host this project on github, to see it working, check out https://youtu.be/fpwMc8tsE28 which is my video about it. If you download the files, there are library's that need to be installed.
 
 
 GUI IMAGE

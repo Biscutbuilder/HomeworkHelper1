@@ -8,6 +8,6 @@ GUI IMAGE
 <img width="294" height="279" alt="image" src="https://github.com/user-attachments/assets/99fc8d6b-3439-4083-a7d1-c25c7452da8a" />
 
 Calculator
-<img width="620" height="496" text-align="center" alt="image" src="https://github.com/user-attachments/assets/c52741b8-ddd0-43c4-9a1e-2445b9165a2d" />
+<img width="620" height="496" alt="image" src="https://github.com/user-attachments/assets/c52741b8-ddd0-43c4-9a1e-2445b9165a2d" />
 
 

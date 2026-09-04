@@ -3,6 +3,10 @@ import desktop_notifier
 import time
 from desktop_notifier import DesktopNotifier, DEFAULT_SOUND
 import canvasapi
+import os
+from dotenv import load_dotenv
+load_dotenv()
+key = os.getenv("MY_SECRET_API_KEY")
 from canvasapi import Canvas  
 API_URL = "https://fergflor.instructure.com/"
 API_KEY = '16687~tGYLZAx8mCztGFVx6HuFUE8aZe6eKGhcLF3aHDXwuVfGxTGLzYuCBhGRGtR6vA9J'

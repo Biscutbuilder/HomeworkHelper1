@@ -6,10 +6,10 @@ import canvasapi
 import os
 from dotenv import load_dotenv
 load_dotenv()
-key = os.getenv("MY_SECRET_API_KEY")
+key = os.getenv("key")
 from canvasapi import Canvas  
 API_URL = "https://fergflor.instructure.com/"
-API_KEY = '16687~tGYLZAx8mCztGFVx6HuFUE8aZe6eKGhcLF3aHDXwuVfGxTGLzYuCBhGRGtR6vA9J'
+API_KEY = key
 
 canvas = Canvas(API_URL, API_KEY)
 canvas = Canvas(API_URL, API_KEY)
